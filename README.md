@@ -1,4 +1,16 @@
 # 360-Boast-a-security-guard
+#  Luminous dreams light you who sleepwalk in the luminous.
 on Android Phone,You can take it on the street.
 
 This software is in Chinese 
+There are two ways to use it:
+1. Please initialize the software first and then restart, And then enter "Safety Mode".
+At this time, there is a floating window, which is a menu with multiple functions.
+2. After entering the "safe mode", return to the main interface of the software and open the "super Boast mode"
+In this way, the flash of the mobile phone flashes, and the background music is played randomly (one background music is randomly selected at the beginning of each startup)
+
+Major Vulnerabilities in this Software:
+1. Not compatible with camera, YouTube and Termux software.
+2. Open "Safety Mode" and return to the main interface, and then press the Home button, you will find that the floating window has failed.
+
+Please look forward to the Tuoshen V2 version
