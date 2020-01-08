@@ -17,4 +17,5 @@ Major Vulnerabilities in this Software:
 2. Open "Safety Mode" and return to the main interface, and then press the Home button, you will find that the floating window has failed.
 
 Tianbang version will be developed on the 22nd of this month.
+
 Please look forward to the Tuoshen V2 version
