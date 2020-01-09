@@ -15,7 +15,7 @@ In this way, the flash of the mobile phone flashes, and the background music is 
 Major Vulnerabilities in this Software:
 1. Not compatible with camera, YouTube and Termux software.
 2. Open "Safety Mode" and return to the main interface, and then press the Home button, you will find that the floating window has failed.
-3.This software cannot run in the background for too long, otherwise the process will be killed by the system.
+3. This software cannot run in the background for too long, otherwise the process will be killed by the system.
 
 Tianbang version will be developed on the 22nd of this month.
 
