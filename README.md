@@ -13,7 +13,7 @@ At this time, there is a floating window, which is a menu with multiple function
 In this way, the flash of the mobile phone flashes, and the background music is played randomly (one background music is randomly selected at the beginning of each startup)
 
 Major Vulnerabilities in this Software:
-1. Not compatible with camera, YouTube and Termux software.
+1. Not compatible with camera. (YouTube and Termux software compatibility vulnerability fixed.)
 2. Open "Safety Mode" and return to the main interface, and then press the Home button, you will find that the floating window has failed.
 3. This software cannot run in the background for too long, otherwise the process will be killed by the system.
 4. TuoShen v2's package capacity is large, please use on 16GB and above mobile phones.
